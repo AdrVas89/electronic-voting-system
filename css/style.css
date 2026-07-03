@@ -1,1 +1,40 @@
+body {
+    background: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    max-width: 900px;
+    margin-top: 40px;
+}
+
+.auth-box {
+    max-width: 450px;
+    margin: 60px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+h1, h2, h3 {
+    color: #1f2937;
+}
+
+.btn-primary {
+    background-color: #1d4ed8;
+    border-color: #1d4ed8;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.alert {
+    border-radius: 8px;
+}
