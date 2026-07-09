@@ -24,6 +24,7 @@ This is a web-based Electronic Voting System developed for the Frontend Programm
 - Duplicate vote prevention
 - Automatic vote counting
 - Results page
+- Secure logout
 
 ## Installation Instructions
 
